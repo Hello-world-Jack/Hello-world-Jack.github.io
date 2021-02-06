@@ -1,25 +1,22 @@
-## Welcome to My GitHub Pages
+## 今天学习了MarkDown
 
-### Markdown-轻量级标记语言
+MarkDown是一种超文本语言，今天我第一次学习了它。
 
-```行间代码
-
-# 一级标题
-## 二级标题
-### 三级标题
-
-* 昨天
-* 今天
-* 明天
-
-1. 昨天
-2. 今天
-3. 明天
-
-**加粗** `行内代码`
-
-[Link](url) and ![Image](src)
-网页连接和图片添加
 ```
+Hello MarkDown!
 
-For more details see [Markdown HelP document](https://guides.github.com/features/mastering-markdown/).
+```
+接下来我还会学习：
+
+1.Git的基础命令
+2.Hexo框架
+3.Hexo更换主题
+
+用命令行敲命令是一种**Geek**行为，我觉得还挺有趣的。
+
+Geek是指极客，通常被用于形容对计算机和网络技术有狂热兴趣并投入大量时间钻
+研的人。所以俗称发烧友或怪杰。
+
+有点意思，下面这张gif可以形容我的心情：
+
+![Image](https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif)
