@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Hello-world-Jack/repository-No.1/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Markdown-轻量级标记语言
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+```行间代码
 
-### Markdown
+# 一级标题
+## 二级标题
+### 三级标题
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* 昨天
+* 今天
+* 明天
 
-```markdown
-Syntax highlighted code block
+1. 昨天
+2. 今天
+3. 明天
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+**加粗** `行内代码`
 
 [Link](url) and ![Image](src)
+网页连接和图片添加
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hello-world-Jack/repository-No.1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For more details see [Markdown HelP document](https://guides.github.com/features/mastering-markdown/).
