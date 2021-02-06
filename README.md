@@ -20,6 +20,14 @@
 
 [Link](url) and ![Image](src)
 网页连接和图片添加
+
+下载和提交
+git clone 地址
+提交三部曲
+git add
+git commit
+git push
 ```
+
 
 For more details see [Markdown HelP document](https://guides.github.com/features/mastering-markdown/).
